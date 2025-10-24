@@ -20,41 +20,39 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">Pre-final year CSE Student | Backend Developer | Java & Spring Boot Enthusiast</h3>
-
 <p align="center">
-  <a href="https://github.com/Chandraraj-Bais">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:chandrarajbais@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="100" height="100"/>
 </p>
+
+<h3 align="center">Backend Developer | Java & Spring Boot Enthusiast | Pre-Final Year CSE Student</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 🌟 About Me
 
-I am a **pre-final year Computer Science Engineering student** at **Shri Vaishnav Institute of Technology and Science, Indore**, specializing in **Backend Development**.  
-I primarily work with **Java, Spring Boot & MySQL** to build efficient and scalable applications.  
+I'm a **pre-final year Computer Science Engineering student** at **Shri Vaishnav Institute of Technology and Science, Indore**, specializing in **Backend Development**.  
 
-I enjoy transforming ideas into **production-level solutions** with clean architecture and maintainable code. I strongly believe in **continuous learning, collaboration**, and writing code with **clarity and purpose**.  
+I love **transforming ideas into production-ready solutions** using clean architecture and scalable designs. I focus on:
+
+- Writing **clean and maintainable code**  
+- Building **efficient backend systems** using Java, Spring Boot & MySQL  
+- Continuous **learning and skill improvement**  
+
+I enjoy collaborating with like-minded developers and contributing to **meaningful projects**.
 
 ---
 
 ### 🚀 Currently Working On
 
-- **Evolution Career Institute Website**  
-  [GitHub Repo](https://github.com/Chandraraj-Bais/evolutioncareerinsitute)
+- **Evolution Career Institute Website** – A full-stack website for institute showcasing courses, testimonials, and contact features.  
+  `[Repo]:` [GitHub](https://github.com/Chandraraj-Bais/evolutioncareerinsitute)
 
----
-
-### 🌱 Currently Learning
-
-- **Spring Boot | REST APIs | Hibernate | MySQL | System Design (Basics)**
+- 🌱 **Currently Learning:**  
+  - Spring Boot  
+  - REST APIs  
+  - Hibernate & JPA  
+  - MySQL  
+  - System Design Basics  
 
 ---
 
@@ -92,35 +90,62 @@ I enjoy transforming ideas into **production-level solutions** with clean archit
 
 ---
 
-### 📂 Projects
+### 💻 Projects
 
-Here are a few highlights of my work:
+| Project | Description | Tech Stack | Repo |
+|---------|-------------|------------|------|
+| **Evolution Career Institute Website** | Full-stack responsive website with courses, testimonials, and contact features | Java, Spring Boot, HTML, CSS, JS, MySQL | [GitHub](https://github.com/Chandraraj-Bais/evolutioncareerinsitute) |
+| **[Other Project]** | Brief description | Tech stack | [Repo](#) |
+| **[Another Project]** | Brief description | Tech stack | [Repo](#) |
 
-| Project | Tech Stack | GitHub Link |
-|---------|------------|------------|
-| Evolution Career Institute Website | Java, Spring Boot, MySQL | [Repo](https://github.com/Chandraraj-Bais/evolutioncareerinsitute) |
-| Backend APIs for Student Management | Java, Spring Boot, Hibernate | [Repo](#) |
-| Mini Ecommerce Platform | Java, Spring Boot, MySQL | [Repo](#) |
-
-> More projects available on my [GitHub](https://github.com/Chandraraj-Bais)
+> Add more projects as you build them.
 
 ---
 
-### 📫 Contact Me
+### 🔗 Connect With Me
 
-- **Email:** chandrarajbais@gmail.com  
-- **LinkedIn:** [LinkedIn Profile](#)  
-- **GitHub:** [GitHub Profile](https://github.com/Chandraraj-Bais)
-
----
-
-### ⚡ Fun Fact
-
-- I love **turning ideas into real solutions** and experimenting with **backend system design**.  
-- Always exploring **new tech, clean coding practices, and best software architecture** patterns.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chandraraj-Bais&style=flat-square&color=blue" alt="Profile views"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin-right:10px"/>
+  </a>
+  <a href="https://github.com/Chandraraj-Bais" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" style="margin-right:10px"/>
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" alt="Portfolio" width="30" height="30"/>
+  </a>
 </p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandraraj-Bais&show_icons=true&theme=blue" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandraraj-Bais&hide=html,css&layout=compact&theme=blue" alt="Top Languages" />
+</p>
+
+---
+
+### 🎯 Current Focus
+
+- Building **scalable backend systems** in Java & Spring Boot  
+- Learning **Microservices architecture**  
+- Exploring **Cloud Deployment** (AWS / Azure basics)  
+- Improving **System Design** knowledge for real-world applications  
+
+---
+
+### ⚡ Fun / Hobbies
+
+- 🏃‍♂️ Running & Fitness  
+- 🎵 Listening to Music  
+- 📖 Reading Tech Blogs & Articles  
+- 💡 Exploring new tools & frameworks  
+
+---
+
+### ✨ Let’s Connect
+
+If you’d like to collaborate or just say hi, feel free to **connect with me**!  
+I love exchanging ideas and contributing to meaningful projects.
