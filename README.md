@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![image alt](https://github.com/Chandraraj-Bais/Chandraraj-Bais/blob/3992c3e89aebe2dc1437b35a7efe2e195fada268/Evolution.png)
 -->
 
-<h1 align="center">Hi 👋, I'm Chandraraj Bais</h1>
+
 <h3 align="center">Pre-final year CSE Student | Backend Developer | Java & Spring Boot Enthusiast</h3>
 
 <p align="center">
