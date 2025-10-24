@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![image alt](https://github.com/Chandraraj-Bais/Chandraraj-Bais/blob/04efb273bf6ca2e3b0cc4d38b8b03e9681d49a75/My%20github%20Profile1.png)
-![image alt](https://github.com/Chandraraj-Bais/Chandraraj-Bais/blob/c9611c9717d156db5255057b232cf0768497966b/My%20github%20Profile.png)
 <!--
 ![image alt](https://github.com/Chandraraj-Bais/Chandraraj-Bais/blob/3992c3e89aebe2dc1437b35a7efe2e195fada268/Evolution.png)
 -->
