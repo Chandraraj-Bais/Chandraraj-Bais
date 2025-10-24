@@ -20,30 +20,41 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Chandraraj Bais</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot Enthusiast | Computer Science Engineering Student</h3>
+<h3 align="center">Pre-final year CSE Student | Backend Developer | Java & Spring Boot Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/Chandraraj-Bais">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:chandrarajbais@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **pre-final year Computer Science Engineering** student at **Shri Vaishnav Institute of Technology and Science, Indore**, specializing in **Backend Development**.  
+I am a **pre-final year Computer Science Engineering student** at **Shri Vaishnav Institute of Technology and Science, Indore**, specializing in **Backend Development**.  
 I primarily work with **Java, Spring Boot & MySQL** to build efficient and scalable applications.  
 
-I enjoy transforming ideas into **production-ready solutions** with clean architecture and maintainable code.  
-I believe in **continuous learning**, collaboration, and writing code with clarity and purpose.
+I enjoy transforming ideas into **production-level solutions** with clean architecture and maintainable code. I strongly believe in **continuous learning, collaboration**, and writing code with **clarity and purpose**.  
 
 ---
 
 ### 🚀 Currently Working On
 
 - **Evolution Career Institute Website**  
-  `Repo:` [GitHub](https://github.com/Chandraraj-Bais/evolutioncareerinsitute)
+  [GitHub Repo](https://github.com/Chandraraj-Bais/evolutioncareerinsitute)
 
-- 🌱 **Currently learning:** Spring Boot | REST APIs | Hibernate | MySQL | System Design (Basics)
+---
 
-- 📫 **Contact:** chandrarajbais@gmail.com
+### 🌱 Currently Learning
 
-- 👨‍💻 **All Projects:** [GitHub](https://github.com/Chandraraj-Bais)
+- **Spring Boot | REST APIs | Hibernate | MySQL | System Design (Basics)**
 
 ---
 
@@ -81,37 +92,35 @@ I believe in **continuous learning**, collaboration, and writing code with clari
 
 ---
 
-### 🌟 Projects
+### 📂 Projects
 
-| Project | Description | Tech Stack | GitHub |
-|---------|-------------|------------|--------|
-| **Evolution Career Institute Website** | Fully responsive website for institute showcasing courses, contact, and testimonials | Java, Spring Boot, HTML, CSS, JS, MySQL | [Repo](https://github.com/Chandraraj-Bais/evolutioncareerinsitute) |
-| **[Your Other Project]** | Brief description | Tech stack | [Repo](#) |
-| **[Another Project]** | Brief description | Tech stack | [Repo](#) |
+Here are a few highlights of my work:
 
-> Add more projects here as you build them.
+| Project | Tech Stack | GitHub Link |
+|---------|------------|------------|
+| Evolution Career Institute Website | Java, Spring Boot, MySQL | [Repo](https://github.com/Chandraraj-Bais/evolutioncareerinsitute) |
+| Backend APIs for Student Management | Java, Spring Boot, Hibernate | [Repo](#) |
+| Mini Ecommerce Platform | Java, Spring Boot, MySQL | [Repo](#) |
 
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin-right:10px"/>
-  </a>
-  <a href="https://github.com/Chandraraj-Bais" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" style="margin-right:10px"/>
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" alt="Portfolio" width="30" height="30"/>
-  </a>
-</p>
+> More projects available on my [GitHub](https://github.com/Chandraraj-Bais)
 
 ---
 
-### 📈 GitHub Stats
+### 📫 Contact Me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandraraj-Bais&show_icons=true&theme=blue" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandraraj-Bais&hide=html,css&layout=compact&theme=blue" alt="Top Languages" />
+- **Email:** chandrarajbais@gmail.com  
+- **LinkedIn:** [LinkedIn Profile](#)  
+- **GitHub:** [GitHub Profile](https://github.com/Chandraraj-Bais)
+
+---
+
+### ⚡ Fun Fact
+
+- I love **turning ideas into real solutions** and experimenting with **backend system design**.  
+- Always exploring **new tech, clean coding practices, and best software architecture** patterns.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chandraraj-Bais&style=flat-square&color=blue" alt="Profile views"/>
 </p>
