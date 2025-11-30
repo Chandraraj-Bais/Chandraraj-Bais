@@ -48,7 +48,7 @@ I enjoy transforming ideas into **production-level solutions** with clean archit
 ### 🚀 Currently Working On
 
 - **Evolution Career Institute Website**  
-  [GitHub Repo](https://github.com/Chandraraj-Bais/evolutioncareerinstitute)
+  [evolutioncareerinstitute](https://github.com/Chandraraj-Bais/evolutioncareerinstitute)
 
 ---
 
