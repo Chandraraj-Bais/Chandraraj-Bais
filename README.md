@@ -101,8 +101,7 @@ I enjoy transforming ideas into **production-level solutions** with clean archit
 ### 📫 Contact Me
 
 - **Email:** chandrarajbais@gmail.com  
-- **LinkedIn:** [LinkedIn Profile](#)  
-- **GitHub:** [GitHub Profile](https://github.com/Chandraraj-Bais)
+- **GitHub:** [github.com/Chandraraj-Bais](https://github.com/Chandraraj-Bais)
 
 ---
 
