@@ -48,7 +48,7 @@ I enjoy transforming ideas into **production-level solutions** with clean archit
 ### 🚀 Currently Working On
 
 - **Evolution Career Institute Website**  
-  [GitHub Repo](https://github.com/Chandraraj-Bais/evolutioncareerinsitute)
+  [GitHub Repo](https://github.com/Chandraraj-Bais/evolutioncareerinstitute)
 
 ---
 
@@ -92,15 +92,7 @@ I enjoy transforming ideas into **production-level solutions** with clean archit
 
 ---
 
-### 📂 Projects
 
-Here are a few highlights of my work:
-
-| Project | Tech Stack | GitHub Link |
-|---------|------------|------------|
-| Evolution Career Institute Website | Java, Spring Boot, MySQL | [Repo](https://github.com/Chandraraj-Bais/evolutioncareerinsitute) |
-| Backend APIs for Student Management | Java, Spring Boot, Hibernate | [Repo](#) |
-| Mini Ecommerce Platform | Java, Spring Boot, MySQL | [Repo](#) |
 
 > More projects available on my [GitHub](https://github.com/Chandraraj-Bais)
 
